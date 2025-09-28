@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
-# Git flow
+# Git Flow version 1.0.0
 
-> Utilizando gitFlow y sus funcionalidades
+> traemos la primera versión de mi proyecto
 ## Built With
 
 - Html
